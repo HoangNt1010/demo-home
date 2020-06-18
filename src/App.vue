@@ -7,6 +7,7 @@
     HEllo world15
     HEllo world16
     HEllo world17
+    Hello world
     <router-view />
   </div>
 </template>
