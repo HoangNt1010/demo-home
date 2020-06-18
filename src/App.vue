@@ -7,6 +7,7 @@
   toi a tuan5
   toi a tuan6
   toi a tuan7
+    Hello world    
     <router-view/>
   </div>
 </template>
