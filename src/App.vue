@@ -1,6 +1,16 @@
 <template>
   <div id="app">
-    Hello world  
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
+    Hello world  tuan
     <router-view/>
   </div>
 </template>
