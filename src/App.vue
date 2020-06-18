@@ -8,6 +8,9 @@
     HEllo world16
     HEllo world17     
     Hello world
+    Hello world
+    Hello world
+    Hello world
     <router-view />
   </div>
 </template>
